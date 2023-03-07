@@ -13,6 +13,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: url('./Flower.jpg');
+  background-size: cover;
 }
 /*.Background styles */
 
