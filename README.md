@@ -3,7 +3,7 @@
 
 ### Live preview : https://r-quotes.netlify.app/
 
-This is a simple quote generator website that displays random quotes to the user when they click the "New Quote" button. The project was created using HTML, CSS and JavaScript.
+This is a simple quote generator website that displays random quotes to the user when they click the "New Quote" button. The project was created using HTML, CSS and JavaScript. This project uses an API so without actual code in your device, you cannot get the new guotes.
 
 
 ## Features :
